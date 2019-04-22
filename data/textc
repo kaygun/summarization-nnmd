@@ -1,0 +1,51 @@
+The Obama administration has backed down in its bitter dispute with Silicon Valley over the encryption of data on iPhones and other digital devices, concluding that it is not possible to give American law enforcement and intelligence agencies access to that information without also creating an opening that China, Russia, cybercriminals and terrorists could exploit.
+
+With its decision, which angered the FBI and other law enforcement agencies, the administration essentially agreed with Apple, Google, Microsoft and a group of the nation’s top cryptographers and computer scientists that millions of Americans would be vulnerable to hacking if technology firms and smartphone manufacturers were required to provide the government with “back doors,” or access to their source code and encryption keys.
+
+Companies like Apple say they are protecting their customers’ information by resisting government demands for access to text messages. A standoff has grown between the sides as the companies have embraced tougher encryption.
+Peter G Neumann, a computer security pioneer, says “there are more vulnerabilities than ever. Security experts like Richard A. Clarke, the former White House counterterrorism czar, also signed the letter to Obama. 
+That would enable the government to see messages, photographs and other data now routinely encrypted on smartphones. Current technology puts the keys for access to the information in the hands of the individual user, not the companies.
+
+The first indication of the retreat came on Thursday, when the FBI director, James B Comey, told the Senate Homeland Security and Governmental Affairs Committee that the administration would not seek legislation to compel the companies to create such a portal.
+
+But the decision, made at the White House a week ago, goes considerably beyond that.
+
+While the administration said it would continue to try to persuade companies like Apple and Google to assist in criminal and national security investigations, it determined that the government should not force them to breach the security of their products. In essence, investigators will have to hope they find other ways to get what they need, from data stored in the cloud in unencrypted form or transmitted over phone lines, which are covered by a law that affects telecommunications providers but not the technology giants.
+
+Mr Comey had expressed alarm a year ago after Apple introduced an operating system that encrypted virtually everything contained in an iPhone. What frustrated him was that Apple had designed the system to ensure that the company never held on to the keys, putting them entirely in the hands of users through the codes or fingerprints they use to get into their phones. As a result, if Apple is handed a court order for data — until recently, it received hundreds every year — it could not open the coded information.
+
+Mr Comey compared that system to the creation of a door no law officers could enter, or a car trunk they could not unlock. His concern about what the FBI calls the “going dark” problem received support from the director of the National Security Agency and other intelligence officials.
+
+But after a year of study and extensive White House debate, President Obama and his advisers have reached a broad conclusion that an effort to compel the companies to give the government access would fail, both politically and technologically.
+
+“This looks promising, but there’s still going to be tremendous pressure from law enforcement,” said Peter G Neumann, one of the nation’s leading computer scientists and a co-author of a paper that examined the government’s proposal for special access. “The N.S.A. is capable of dealing with the cryptography for now, but law enforcement is going to have real difficulty with this. This is never a done deal.”
+
+In the paper, released in July, Mr Neumann and other top cryptographers and computer scientists argued that there was no way for the government to have a back door into encrypted communications without creating an opening that would be exploited by Chinese and Russian intelligence agents, cybercriminals and terrorist groups.
+
+Inside the White House, the Office of Science and Technology Policy came largely to the same conclusion. Those determinations surprised the FBI and local law enforcement officials, who had believed just months ago that the White House would ultimately embrace their efforts.
+
+The intelligence agencies were less vocal, which may reflect their greater capability to search for and gather information. The National Security Agency spends vast sums to get around digital encryption, and it has tools and resources that local law enforcement officials still do not have and most likely never will.
+
+Disclosures by the former N.S.A. contractor Edward J. Snowden showed the extent of the agency’s focus on cracking and circumventing the encryption of digital communications, including those of Apple, Facebook, Google and Yahoo users.
+
+There were other motivations for the administration’s decision. Mr Obama and his aides had come to fear that the United States could set a precedent that China and other nations would emulate, requiring Apple, Google and the rest of America’s technology giants to provide them with the same access, officials said.
+
+Timothy D Cook, the chief executive of Apple, sat at the head table with Mr Obama and Xi Jinping, the Chinese president, at a state dinner at the White House last month. According to government officials and industry executives, Mr Cook told Mr Obama that the Chinese were waiting for an opportunity to seize on administration action to insist that Apple devices, which are also encrypted in China, be open to Beijing’s agents.
+
+In January, three months after Mr Comey began pressing companies for special government access, Chinese officials had threatened to do just that: They considered submitting foreign companies to invasive audits and requiring them to build back doors into their hardware and software. Those rules have not been put into effect.
+
+The Obama administration’s position was also undercut by officials’ inability to keep their own data safe from Chinese hackers, as shown by the extensive cyberattack at the Office of Personnel Management discovered this year. That breach, and its aftermath, called into question whether the government could keep the keys to the world’s communications safe from its adversaries in cyberspace.
+
+White House officials said they would continue trying to persuade technology companies to help them in investigations, but they did not specify how.
+
+“As the president has said, the United States will work to ensure that malicious actors can be held to account, without weakening our commitment to strong encryption,” said Mark Stroh, a spokesman for the National Security Council. “As part of those efforts, we are actively engaged with private companies to ensure they understand the public safety and national security risks that result from malicious actors’ use of their encrypted products and services. However, the administration is not seeking legislation at this time.”
+
+But here in Silicon Valley, executives did not think the government’s announcement went far enough.
+
+According to administration officials and technology executives, Mr Cook of Apple has pressed the White House for a clear statement that it will never seek a back door in any form, legislative or technical — a statement he hoped to take to Beijing, Moscow and even London. Prime Minister David Cameron of Britain has threatened to ban encrypted devices and services, like the iPhone and Facebook’s popular WhatsApp messaging service, but has done nothing so far to make good on that threat.
+
+Technology executives are determined to reassure customers abroad that American intelligence agencies are not reading their digital communications. It is an effort driven by economics: 64 percent of Apple’s revenue originates overseas.
+
+Apple, Google, Facebook and Microsoft argue that people put not only their conversations but their entire digital lives — medical records, tax returns, bank accounts — into a device that slips into their pocket. While Mr Obama has repeatedly said he is sympathetic to the concerns of law enforcement officials, he made clear during a visit to Silicon Valley in February that he was also aware of privacy concerns and that he sought to balance both interests.
+
+Technologists responded that, with regard to encryption, no such balance existed. “The real problem is, I don’t see any middle ground for dumbing down everything to make special access possible and having the secure systems we need for commerce, government and everything else,” Mr Neumann said.

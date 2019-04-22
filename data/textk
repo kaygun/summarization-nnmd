@@ -1,0 +1,44 @@
+When a group of computer science students decided to study the way that gender bias plays out in software development communities, they assumed that coders would be prejudiced against code written by women.
+
+After all, women make up a very small percentage of software developers – 11.2% according to one 2013 survey – and the presence of sexism in all corners of the overwhelmingly male tech industry has been well documented.
+
+So the student researchers were surprised when their hypothesis proved false – code written by women was in fact more likely to be approved by their peers than code written by men. But that wasn’t the end of the story: this only proved true as long as their peers didn’t realise the code had been written by a woman.
+
+“Our results suggest that although women on GitHub may be more competent overall, bias against them exists nonetheless,” the study’s authors write.
+
+The researchers, who published their findings earlier this week looked at the behavior of software developers on GitHub, one of the largest open-source software communities in the world.
+
+Based in San Francisco, GitHub is a giant repository of code used by over 12 million people. Software developers on GitHub can collaborate on projects, scrutinise each other’s work, and suggest improvements or solutions to problems. When a developer writes code for someone else’s project, it’s called a “pull request”. The owner of the code can then decide whether or not to accept to proffered code.
+
+The researchers looked at approximately 3m pull requests submitted on GitHub, and found that code written by women was approved at a higher rate (78.6%) than code written by men (74.6%).
+
+Looking for an explanation for this disparity, the researchers examined several different factors, such as whether women were making smaller changes to code (they were not) or whether women were outperforming men in only certain kinds of code (they were not).
+
+“Women’s acceptance rates dominate over men’s for every programming language in the top 10, to various degrees,” the researchers found.
+
+The researchers then queried whether women were benefiting from reverse bias – the desire of developers to promote the work of women in a field where they are such a small minority. To answer this, the authors differentiated between women whose profiles made it clear that they were female, and women developers whose profiles were gender neutral. 
+
+It was here that they made the disturbing discovery: women’s work was more likely to be accepted than men’s, unless “their gender is identifiable”, in which case the acceptance rate was worse than men’s.
+
+Lorna Jane Mitchell, a software developer whose work is almost entirely based on GitHub, said that it was impossible to tell whether a pull request was ignored out of bias, or just because a project owner was busy or knew another developer personally.
+
+Her profile on GitHub clearly identifies her as female, something she won’t be changing based on the results of this study.
+
+“I have considered how wise it is to have a gender-obvious profile and to me, being identifiably female is really important,” Mitchell said by email. “I want people to realise that the minorities do exist. And for the minorities themselves: to be able to see that they aren’t the only ones ... it can certainly feel that way some days.”
+
+Another developer, Isabel Drost-Fromm, whose profile picture on GitHub is a female cartoon character, said that she’s never experienced bias while working GitHub, but that she normally uses the site to work on projects with a team that already knows her and her work.
+
+Jenny Bryan, a professor of statistics at the University of British Columbia, uses GitHub as a teacher and developer in R, a programming language. Her profile makes clear that she is a woman, and she doesn’t believe that she’s been discriminated against due to her gender.
+
+“At the very most, men who don’t know me sometimes explain things to me that I likely understand better than they do,” she writes. “The men I interact with in the R community on GitHub know me and, if my genderhas any effect at all, I feel they go out of their way to support my efforts to learn and make more contributions.”
+
+Bryan was more concerned with the paucity of women using GitHub than she was with the study’s results. “Where are the women?” she asks. One possibility she raises is the very openness of the open source community.
+
+“In open source, no one is getting paid to manage the community,” she writes. “Thus often no one is thinking about how well the community is (or is not) functioning.”
+
+
+That’s a pressing question for GitHub itself, which has faced serious charges of internal sexism which led to the resignation of co-founder and CEO Tom Preston-Werner in 2014. GitHub did not immediately respond to a request for comment on the study.
+
+In 2013, GitHub installed a rug in its headquarters that read, “United Meritocracy of GitHub.” The rug was removed in 2014 after criticism from feminist commentators that, although meritocracy is a virtue that it is hard to disagree with in principle, it doesn’t do much for diversity in the workplace. CEO Chris Wanstrath tweeting, “We thought ‘meritocracy’ was a neat way to think of open source but now we see the problems with it. Words matter. We’re getting a new rug.”
+
+As the researchers of the pull request study wrote, “The frequent refrain that open source is a pure meritocracy must be reexamined.”
